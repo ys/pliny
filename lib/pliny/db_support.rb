@@ -1,4 +1,5 @@
 require "logger"
+require "stringio"
 require "sequel"
 require "sequel/extensions/migration"
 
